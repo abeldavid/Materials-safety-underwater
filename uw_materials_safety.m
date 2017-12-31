@@ -1,4 +1,3 @@
-
 %% Materials charecteristics
 ys(1)= 505; % Stainless steel
 ys(2) = 31; %HDPE
